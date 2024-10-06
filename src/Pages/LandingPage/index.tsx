@@ -1,8 +1,9 @@
 import { FC } from "react";
 import Header from "../../components/Header";
 import Hero from "../../Pages/LandingPage/Components/Hero";
-import Portfolio from "../../components/Portofolio";
+import Portfolio from "../../Pages/LandingPage/Components/Portfolio";
 import About from "../../Pages/LandingPage/Components/About";
+import Testimonial from "../../Pages/LandingPage/Components/Testimonial";
 import Footer from "../../Pages/LandingPage/Components/Footer";
 import Gallery from "../../Pages/LandingPage/Components/Gallery";
 
@@ -14,6 +15,7 @@ const LandingPage: FC = () => {
       <About />
       <Portfolio />
       <Gallery />
+      <Testimonial />
       <Footer />
     </>
   );

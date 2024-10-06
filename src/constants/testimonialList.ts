@@ -8,7 +8,7 @@ const DUMMY_TESTIMONIAL = [
     },
     {
       name: "Alex Cattoni",
-      position: "Founder @ Copy Pussy",
+      position: "Founder @ CopyPossy",
       image: "/alex-cattoni.jpeg",
       testimonial:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
