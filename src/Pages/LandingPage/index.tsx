@@ -4,6 +4,7 @@ import Hero from "../../components/Hero";
 import Portofolio from "../../components/Portofolio";
 import About from "../../Pages/LandingPage/Components/About";
 import Footer from "../../Pages/LandingPage/Components/Footer";
+import Gallery from "../../Pages/LandingPage/Components/Gallery";
 
 const LandingPage: FC = () => {
   return (
@@ -12,6 +13,7 @@ const LandingPage: FC = () => {
       <Hero />
       <About />
       <Portofolio />
+      <Gallery />
       <Footer />
     </>
   );
